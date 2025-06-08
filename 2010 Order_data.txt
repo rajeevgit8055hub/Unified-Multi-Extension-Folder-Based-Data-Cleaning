@@ -1,0 +1,29 @@
+Order ID	Customer	Item	Revenue	Cost	Order Date	Order Status
+Ord01	Pooja	Apple iPhone	626.44	558.14	2013-06-06	Cancelled
+Ord02	Neha	Sony Headphones	715.64	642.64	2019-06-30	Pending
+Ord03	Raj	Dell Laptop	304.37	200.42	2013-02-04	Cancelled
+Ord04	Kiran	HP Printer	346.24	185.6	2017-08-13	Pending
+Ord05	Arjun	Asus Monitor	401.79	249.85	2002-02-26	Pending
+Ord06	Priya	Lenovo Notebook	907.66	775.38	2015-12-07	Delivered
+Ord07	Vikram	Acer Projector	102.73	86.38	2017-09-27	Shipped
+Ord08	Sanya	Microsoft Surface	590.26	297.8	2008-06-25	Shipped
+Ord09	Rohit	Bose Earbuds	319.35	180.45	2007-12-09	Cancelled
+Ord10	Anjali	OnePlus Smartphone	305.92	212.2	2003-01-14	Pending
+Ord11	Ramesh	Google Pixel	542.09	478.76	2003-09-03	Cancelled
+Ord12	Sneha	Xiaomi Router	116.3	77.16	2016-02-24	Pending
+Ord13	Sanjay	Realme Watch	508.9	339.27	2014-04-21	Cancelled
+Ord14	Deepika	Oppo Earphones	755.11	495.06	2004-07-05	Pending
+Ord15	Kunal	Vivo Mobile	435.37	291.78	2016-03-11	Cancelled
+Ord16	Meena	LG TV	962.67	662.27	2008-03-13	Cancelled
+Ord17	Abhishek	Huawei Matebook	930.55	498.03	2014-12-18	Shipped
+Ord18	Kavita	Motorola Walkie	445.14	346.83	2013-11-02	Shipped
+Ord19	Suresh	Amazon Echo	114.15	77.52	2006-10-12	Shipped
+Ord20	Divya	Nokia Phone	438.15	345.26	2016-01-28	Pending
+Ord21	Manish	Panasonic Camera	715.92	416.7	2017-05-06	Delivered
+Ord22	Ritu	JBL Speaker	789.52	608.32	2019-04-20	Delivered
+Ord23	Nitin	Beats Headset	290.7	153.75	2006-08-16	Cancelled
+Ord24	Alka	Razer Keyboard	823.99	549.57	2009-06-02	Pending
+Ord25	Akash	Corsair Mouse	582.97	401.49	2000-03-26	Cancelled
+Ord26	Jyoti	Logitech Webcam	403.22	305.9	2012-07-03	Delivered
+Ord27	Varun	BenQ Monitor	473.86	285.64	2003-07-11	Delivered
+
