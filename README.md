@@ -1,7 +1,4 @@
 # Multi-Extension Folder-Based Data Cleaning Project
-
-![Data Cleaning Report](./Data%20Cleaning%20Report.png)
-
 ---
 
 ## Project Overview
@@ -69,3 +66,4 @@ Feel free to explore, fork, and use this project for learning and improving your
 ---
 
 *For any questions or feedback, please contact [your email or GitHub profile].*
+![Data Cleaning Report](./Data%20Cleaning%20Report.png)
