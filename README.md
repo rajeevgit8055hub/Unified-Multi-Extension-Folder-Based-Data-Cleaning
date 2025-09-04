@@ -1,4 +1,4 @@
-# 📂 Multi-Extension Folder-Based Data Cleaning Project  
+ # 📂 Multi-Extension Folder-Based Data Cleaning Project  
 
 **Project Type:** Practical | Automation | Real-World Data Cleaning  
 **Tools Used:** Power Query | Advanced Excel  
@@ -6,7 +6,23 @@
 
 ---
 
-## 📖 Project Overview  
+## 📑 Table of Contents
+
+- <a href="#project-overview">📖 Project Overview</a>  
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#approach-execution">⚙ Approach & Execution</a>  
+- <a href="#key-skills">🧠 Key Skills Demonstrated</a>  
+- <a href="#tools-used">🛠 Tools Used</a>  
+- <a href="#project-outcome">📊 Project Outcome</a>  
+- <a href="#repo-contents">Repository Contents</a>  
+- <a href="#project-use">🚀 How to Use This Project</a>  
+- <a href="#future-enhancements">🌟 Future Enhancements</a>
+- <a href="#contact">📬 Connect with Me</a>   
+- <a href="#project-visual">📷 Project Snapshot</a>  
+
+---
+
+## <span id="project-overview">📖 Project Overview</span>    
 
 This project focused on managing a **complex data cleaning and consolidation process** involving **multiple file formats** —  
 `.csv`, `.txt`, `.xlsx`, `.pdf`, and `.accdb`.  
@@ -19,7 +35,7 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## 🎯 Project Objectives  
+## <span id="project-objectives">🎯 Project Objectives</span>  
 
 - Automate the **import and consolidation** of mixed-format files.  
 - Apply **format-specific cleaning techniques** for each file type.  
@@ -29,7 +45,7 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## ⚙ Approach & Execution  
+## <span id="approach-execution">⚙ Approach & Execution</span>  
 
 ### **1. Folder-Based Import Automation**  
 - Used **Power Query’s Folder Connector** to automatically import **all files** from the master folder in one go.  
@@ -57,7 +73,7 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## 🧠 Key Skills Demonstrated  
+## <span id="key-skills">🧠 Key Skills Demonstrated</span>  
 
 - **Folder-Based Automation:** Batch import and refresh of mixed-format files using Power Query’s folder connector.  
 - **Query Duplication & Filtering:** Extension-wise data processing with dedicated queries for `.csv`, `.txt`, `.xlsx`, `.pdf`, and `.accdb`.  
@@ -69,14 +85,14 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## 🛠 Tools Used  
+## <span id="tools-used">🛠 Tools Used</span>  
 
 - **Microsoft Power Query** — For automation, transformation, and cleaning.  
 - **Advanced Excel** — For structured loading and final output organization.  
 
 ---
 
-## 📊 Project Outcome  
+## <span id="project-outcome">📊 Project Outcome</span>  
 
 - Delivered a **robust and reusable ETL solution** capable of handling multiple file formats.  
 - Achieved a **fully automated refresh process** — adding new files to the folder updates the Excel output instantly.  
@@ -85,7 +101,7 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## 📂 Repository Contents  
+## <span id="repo-contents">📂 Repository Contents</span>  
 
 | File Name / Folder | Description |
 |--------------------|-------------|
@@ -97,7 +113,7 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## 🚀 How to Use This Project  
+## <span id="project-use">🚀 How to Use This Project</span>  
 
 1. **Download or Clone** this repository.  
 2. Place all raw data files in the `Raw Data Files` folder.  
@@ -107,7 +123,7 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## 🌟 Future Enhancements  
+## <span id="future-enhancements">🌟 Future Enhancements</span>  
 
 - Integrating with **Power BI Dataflows** for cloud-based automation.  
 - Creating **validation rules** to flag inconsistent data before processing.  
@@ -115,7 +131,18 @@ finally producing a **single, unified, and well-structured Excel workbook** read
 
 ---
 
-## 📷 Project Snapshot  
+## <span id="contact">📬 Connect with Me</span>
+ 
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-visual">📷 Project Snapshot</span> 
 
 ![Data Cleaning Report](./Data%20Cleaning%20Report.jpg)  
 
