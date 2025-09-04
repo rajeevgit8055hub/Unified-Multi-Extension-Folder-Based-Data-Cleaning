@@ -14,7 +14,7 @@
 - <a href="#key-skills">🧠 Key Skills Demonstrated</a>  
 - <a href="#tools-used">🛠 Tools Used</a>  
 - <a href="#project-outcome">📊 Project Outcome</a>  
-- <a href="#repo-contents">Repository Contents</a>  
+- <a href="#repo-contents">📂 Repository Contents</a>  
 - <a href="#project-use">🚀 How to Use This Project</a>  
 - <a href="#future-enhancements">🌟 Future Enhancements</a>
 - <a href="#contact">📬 Connect with Me</a>   
